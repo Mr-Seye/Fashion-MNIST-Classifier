@@ -29,6 +29,7 @@ A convolutional neural network (CNN) pipeline built with PyTorch for classifying
 ## 🚀 Installation
 
 1. Clone the repository or download the notebook file:
+
    ```bash
    git clone https://github.com/yourusername/Fashion-MNIST-Classifier.git
 2. Open the notebook using Jupyter:
@@ -69,8 +70,9 @@ Ensure the following are installed (all are imported in the notebook):
     torchvision
 
 Optional: install using pip
-
+````
 pip install numpy matplotlib torch torchvision notebook
+````
 
 👨‍💻 Author
 Jordan Ogunseye
