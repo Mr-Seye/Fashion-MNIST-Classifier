@@ -37,7 +37,8 @@ A convolutional neural network (CNN) pipeline built with PyTorch for classifying
 jupyter notebook Fashion-MNIST-Classifier.ipynb
 
 3. Run all cells in order.
-⚙️ Usage
+
+## ⚙️ Usage
 
 You can edit key hyperparameters in the notebook:
 
@@ -53,7 +54,7 @@ You can edit key hyperparameters in the notebook:
 
 This allows experimentation and learning with different configurations of the CNN model.
 
-📦 Prerequisites
+## 📦 Prerequisites
 
 Ensure the following are installed (all are imported in the notebook):
 
@@ -74,6 +75,6 @@ Optional: install using pip
 pip install numpy matplotlib torch torchvision notebook
 ````
 
-👨‍💻 Author
+## 👨‍💻 Author
 Jordan Ogunseye
 
