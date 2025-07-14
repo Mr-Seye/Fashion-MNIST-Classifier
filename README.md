@@ -91,7 +91,7 @@ Jordan Ogunseye
 
 This project is licensed under the [MIT License](LICENSE).
 
-Copyright (c) 2025 Jordan Ogunseye
+Copyright (c) 2024 Jordan Ogunseye
 
 Permission is hereby granted, free of charge, to any person obtaining a copy  
 of this software and associated documentation files (the "Software"), to deal  
