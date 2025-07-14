@@ -8,7 +8,7 @@ A convolutional neural network (CNN) pipeline built with PyTorch for classifying
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/Fashion-MNIST-Classifier?logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/Mr-Seye/Fashion-MNIST-Classifier?logo=github)
 
 ---
 
